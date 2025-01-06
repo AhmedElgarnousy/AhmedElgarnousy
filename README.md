@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedElgarnousy
 - 👀 I’m interested in Electric Mobility
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Embedded Software Developer
+- 💞️ I’m looking to collaborate as Embedded Software Developer
 - 📫 How to reach me ahmedgarnousy76@gmail.com
 
 <!---
