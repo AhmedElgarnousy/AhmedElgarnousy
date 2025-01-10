@@ -1,11 +1,10 @@
 ### Ahmed Kamal ElGarnousy
-<!---
---->
+
 <p align="center">
   <img width="80%" height="50%" src="githubprofile.png">
 </p>
 
-👋 Hi, I am Ahmed Kamal. I am an enthusiastic software engineer with great knowledge in embedded systems, power electronics, PCB design, Full Stack Development (MERN).
+👋 Hi, I am Ahmed Kamal. I am an enthusiastic software engineer with knowledge in embedded systems, power electronics, PCB design, Full Stack Development (MERN).
 
 👀 My repository is specialized in these topics:
 - Embedded Systems
