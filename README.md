@@ -1,13 +1,13 @@
 ### Ahmed Kamal ElGarnousy
 
-<p align="center">
+<!-- <p align="center">
   <img width="80%" height="50%" src="githubprofile.png">
-</p>
+</p> -->
 
 👋 Hi, I am Ahmed Kamal. I am an enthusiastic software engineer with knowledge in Domains like embedded systems, Full Stack Development (MERN).
 
-👀 My repository is specialized in these topics:
-- Embedded Systems
+👀 My repository is specialized in these tracks:
+- Embedded and Edge Architectures
 - Full Stack Development
 
 ### Follow Me ✔
