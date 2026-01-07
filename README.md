@@ -10,6 +10,19 @@
 - Embedded and Edge Architectures
 - Full Stack Development
 
+### My Work Experience Timeline Summary
+
+2025-2026. career break (military service)
+2024-2025. SEITech Intern, Graduation Project
+2022-2024. participated in Metal Monsters – Combat robot, SUMO, Linefollower Competitions
+2020-2022. participated in EVER, SHELL, GEVC Racing Competitions.
+
+### My Skill Set
+Programming Language. I'm fluent in speaking embedded C and C++ (especially the modern version like C++11, C++17, and C++20). Also able to speak Python and javascript.
+Firmware Architecture Design. A very important step that many engineers missed. Without proper architecture design, your firmware will be destined to be super-hard to maintain and add features.
+Firmware Documentation. Without proper documentation, people will waste time to understand and follow your firmware.
+[comment]: <> (Firmware Testing. I love and use Test-Driven Development in my day-to-day work.)
+[comment]: <> (Testing Automation. Usually I use CI/CD to deliver fast and good firmware without breaking existing code.)
 
 ### Technical Skills
 - Wired Protocols
@@ -32,6 +45,13 @@
   - STM32 F1, F4 series
   - AVR MCU
   - Texas Instrument TivaC
+
+- Development Board bring-up
+- Embedded Linux (still learning, mainly use Yocto)
+- RTOS
+  - FreeRTOS
+  - Zephyr (still learning)
+
 - Hardware Development
   - Schematic Design
   - PCB design (still learning! I use KiCad)
