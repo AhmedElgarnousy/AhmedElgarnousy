@@ -11,11 +11,10 @@
 - Full Stack Development
 
 ### My Work Experience Timeline Summary
-
-2025-2026. career break (military service)
-2024-2025. SEITech Intern, Graduation Project
-2022-2024. participated in Metal Monsters – Combat robot, SUMO, Linefollower Competitions
-2020-2022. participated in EVER, SHELL, GEVC Racing Competitions.
+- 2025-2026. career break (military service)
+- 2024-2025. SEITech Intern, Graduation Project
+- 2022-2024. participated in Metal Monsters – Combat robot, SUMO, Linefollower Competitions
+- 2020-2022. participated in EVER, SHELL, GEVC Racing Competitions.
 
 ### My Skill Set
 Programming Language. I'm fluent in speaking embedded C and C++ (especially the modern version like C++11, C++17, and C++20). Also able to speak Python and javascript.
