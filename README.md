@@ -45,6 +45,7 @@ Firmware Documentation. Without proper documentation, people will waste time to 
   - AVR MCU
   - Texas Instrument TivaC
 
+- system programming in linux
 - Development Board bring-up
 - Embedded Linux (still learning, mainly use Yocto)
 - RTOS
