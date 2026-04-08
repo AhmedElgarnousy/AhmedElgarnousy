@@ -4,7 +4,7 @@
   <img width="80%" height="50%" src="githubprofile.png">
 </p> -->
 
-👋 Hi, I am Ahmed Kamal. I am an enthusiastic software engineer with knowledge in embedded systems, Full Stack (MERN) and hardware design domains.
+👋 Hi, I am Ahmed Kamal. I am an enthusiastic software engineer with knowledge in embedded systems, cybersecuirty, Full Stack (MERN) and hardware design domains.
 
 👀 My repository is specialized in these tracks:
 - Embedded and Edge Architectures
