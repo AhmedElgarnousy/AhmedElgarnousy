@@ -8,7 +8,8 @@
 
 👀 My repository is specialized in these tracks:
 - Embedded and Edge Architectures
-- Full Stack Development
+- Full Stack Web Development
+- Cybersecurity
 
 ### My Work Experience Timeline Summary
 - 2025-2026. career break (military service)
